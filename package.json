@@ -1,0 +1,21 @@
+{
+  "name": "atsuko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "booru-getter": "0.0.2",
+    "danbooru": "^2.0.3",
+    "db": "^2.0.0",
+    "discord.js": "^12.2.0",
+    "enmap": "^5.2.4",
+    "eris": "^0.13.1",
+    "quick": "0.0.6",
+    "sequelize": "^5.21.9"
+  }
+}
